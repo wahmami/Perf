@@ -1,0 +1,30 @@
+# Secrets / credentials
+.streamlit/secrets.toml
+*.env
+.env
+.env.*
+secrets/*.json
+secrets/*.yaml
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+venv/
+.venv/
+env/
+ENV/
+
+# Logs / local DB
+*.log
+perfman.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
