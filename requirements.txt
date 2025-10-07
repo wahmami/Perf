@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+streamlit-authenticator==0.2.2
+supabase
